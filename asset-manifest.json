@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CornHub/static/css/main.570ecd90.css",
+    "main.js": "/CornHub/static/js/main.efd34d25.js",
+    "static/js/453.dc396bf1.chunk.js": "/CornHub/static/js/453.dc396bf1.chunk.js",
+    "index.html": "/CornHub/index.html",
+    "main.570ecd90.css.map": "/CornHub/static/css/main.570ecd90.css.map",
+    "main.efd34d25.js.map": "/CornHub/static/js/main.efd34d25.js.map",
+    "453.dc396bf1.chunk.js.map": "/CornHub/static/js/453.dc396bf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570ecd90.css",
+    "static/js/main.efd34d25.js"
+  ]
+}
